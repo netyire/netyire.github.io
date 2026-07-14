@@ -6,7 +6,7 @@ Hi there! This space hosts a collection of single-file, interactive static HTML 
 
 ## 🚀 Projects Hosted Here
 
-### 📅 [Daily Life Tracker (DLT) v3.42](https://netyire.github.io/DLT3.42.html)
+### 📅 [Daily Life Tracker (DLT) v3.43](https://netyire.github.io/DLT3.42.html)
 A comprehensive, privacy-first personal assistant and productivity suite.
 * **What it does**: Helps you keep track of your daily notes, activities, habits, and tasks in one place.
 * **Why it's cool**: It runs completely locally in your browser! All your data is securely saved on your own device using browser storage (IndexedDB), with optional cloud backup and restore syncing via Google Drive.
