@@ -27,4 +27,4 @@ Since these are static pages, you can run them directly on your machine:
    ```bash
    git clone https://github.com/netyire/netyire.github.io.git
    ```
-2. Open either [DLT3.42.html](DLT3.42.html) or [c3.html](c3.html) in your favorite web browser (Chrome, Firefox, Safari, Edge).
+2. Open either [DLT3.43.html](DLT3.43.html) or [c3.html](c3.html) in your favorite web browser (Chrome, Firefox, Safari, Edge).
